@@ -9,3 +9,6 @@ sun.cst:
 clean:
 	rm sun_out.gif
 	rm sun.cst
+
+crosti:
+	crosti sun.cst
